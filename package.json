@@ -1,0 +1,13 @@
+{
+  "name": "cnr-proto-tap",
+  "version": "2.0.0",
+  "description": "Protocol buffer WebSocket tap — intercepts and decodes game WebSocket traffic",
+  "main": "inject/proto-tap.js",
+  "keywords": ["protobuf", "websocket", "interceptor", "game"],
+  "author": "jerroldneal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jerroldneal/cnr-proto-tap.git"
+  }
+}
