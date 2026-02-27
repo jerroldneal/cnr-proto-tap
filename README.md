@@ -1,8 +1,10 @@
 # cnr-proto-tap
 
+> **Repo**: [`jerroldneal/cnr-proto-tap`](https://github.com/jerroldneal/cnr-proto-tap) · **Submodule of**: [`cnr-ws-server`](https://github.com/jerroldneal/cnr-ws-server) at `submodules/cnr-proto-tap/`
+
 Enhanced Protocol Buffer WebSocket Tap v2 — intercepts all WebSocket connections on the page, decodes binary protobuf frames using the game's own `window.protobuf` library, and emits structured JSON events.
 
-Consolidated from two previously divergent copies (cnr-ws-client-protobuf and cnr-ws-extension) into a single source of truth.
+Consolidated from two previously divergent copies ([`cnr-ws-client-protobuf`](https://github.com/jerroldneal/cnr-ws-client-protobuf) and [`cnr-ws-extension`](https://github.com/jerroldneal/cnr-ws-extension)) into a single source of truth.
 
 ## Features
 
